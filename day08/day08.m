@@ -1,4 +1,4 @@
-% ===== AOC2023 Day 08 [Doebbler] =====
+% ===== AOC2023 Day 08 [DayBlur] =====
 
 %% Read file, line processing
 clear;
